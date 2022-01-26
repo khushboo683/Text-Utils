@@ -8,7 +8,7 @@ Text editing tool.
 - Copy text to clipboard.
 - Dark mode/ light mode
 - Live word and letter count.
-- Live counts of estimated time to read the text.
+- Live count of estimated time to read the text.
 - Live preview of text.
 
 
