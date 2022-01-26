@@ -1,5 +1,6 @@
 # TextUtils  
 Change text to lowercase,uppercase,copy text to clipboard and remove extra spaces from the text.
+Dark mode feature available.
 
  
 
