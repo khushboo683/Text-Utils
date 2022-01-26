@@ -1,8 +1,15 @@
 # TextUtils  
-Change text to lowercase,uppercase,copy text to clipboard and remove extra spaces from the text with
-dark mode/light mode feature.
+Text editing tool.
 
- 
+
+ ### Features
+-------------------------------------------------------------------------------------------------------------
+- Changes text to lowercase,uppercase,remove extra spaces.
+- Copy text to clipboard.
+- Dark mode/ light mode
+- Live word and letter count.
+- Live counts of estimated time to read the text.
+- Live preview of text.
 
 
 
